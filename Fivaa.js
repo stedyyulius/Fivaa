@@ -11,4 +11,4 @@ const fivaa = (amount) => {
   }
 }
 
-fivaa(5);
+console.log(fivaa(5));
